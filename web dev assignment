@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta>charset="UTF-8"
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="sneakers" content="latest sneakers , trendy sneakers ,original sneakers">
+        <title>shoe game sneakers</title>
+        <body>
+            <header>
+                <h1>SHOE GAME SNEAKERS</h1>
+                <p>shoe game a place for your trendy fashionable and unique footwear</p>
+            </header> 
+            <nav>
+                <ul>
+                    <li><a href="#about us">about us</a></li>
+                    <li><a href="#services">services</a></li>
+                    <li><a href="#contact">contact</a></li>
+                </ul>
+            </nav>
+            <main>
+                <section id="about_us">
+                    <h2>about us</h2>
+                    <p> we sell high quality footwear from kids to adults</p>
+                </section>
+                <section id="services">
+                    <h3>services</h3>
+                    <p>we sell high quality sneakers from sport wear to casual official and sneakers</p>
+                </section>
+                <section id="contact">
+                    <p>0799597538</p>
+                
+                </section>
+            </main>
+            <footer>
+                <p>contact us at: <a href="shoegame@gmail.com"></a>shoegame@gmail.com</p>
+                <p>my website 2024. all rights reserved</p>
+            </footer>
+                   
+        </body>
+        
+</html>
